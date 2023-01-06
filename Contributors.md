@@ -25,6 +25,7 @@ out**Contributors**
 - [Kyle Young](https://github.com/KyleYoung69)
 - [Andrea Fajardo Gutiérrez](https://github.com/ItsAndrea)
 - [Babba Voss](https://github.com/Lordvoss/)
+- [Clinton Ekwugha](https://github.com/Klinteen)
 - [ARKARLIN](https://github.com/christopher4RY)
 - [Rachel Opuba]
 - [TheCallipo] (https://github.com/TheCallipo)
